@@ -1,0 +1,16 @@
+*{
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container{
+    
+    background-color: bisque;
+    width: 350px;
+    height: 200px;
+    border-radius: 10px;
+} 
+
